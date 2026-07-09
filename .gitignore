@@ -1,4 +1,3 @@
-/.vscode
 /docs
 
 # asdf / language version pins (developer-local)
@@ -19,3 +18,5 @@ venv/
 
 /.DS_Store
 Thumbs.db
+config.bat
+node_modules
